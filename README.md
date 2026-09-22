@@ -1,39 +1,20 @@
-# Cloud Cost Anomaly Detector
+# Cost Anomaly Detector
 
-Detect cost spikes and anomalies in cloud spend.
+Detect cost spikes and anomalies in cloud spend before they hit your bill — streaming analysis with root-cause hints.
 
-Part of the Zion AI Apps Network.
+**Live app:** https://zion-support.github.io/cost-anomaly-detector/
 
-[https://ziontechgroup.com](https://ziontechgroup.com)
+## Features
+- Daily/hourly spend anomaly detection
+- Root-cause hints by service, region and tag
+- Alert thresholds and budget guardrails
 
-- 🌐 Live app: https://ziontechgroup.com/cost-anomaly-detector/
-- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
-- 📞 Discovery call: https://ziontechgroup.com/discovery/
-- 🧰 All tools: https://ziontechgroup.com/tools/
+## Part of the Zion App Network
+- 🌐 [Zion Tech Group](https://ziontechgroup.com)
+- 🕸 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 
-## Zion App Network (related apps)
-
-- [agent-sla-monitor](https://github.com/Zion-support/agent-sla-monitor) — https://ziontechgroup.com/agent-sla-monitor/
-- [accessibility-checker](https://github.com/Zion-support/accessibility-checker) — https://ziontechgroup.com/accessibility-checker/
-- [warranty-lens](https://github.com/Zion-support/warranty-lens) — https://ziontechgroup.com/warranty-lens/
-- [site-survey-planner](https://github.com/Zion-support/site-survey-planner) — https://ziontechgroup.com/site-survey-planner/
-- [depot-stock-balancer](https://github.com/Zion-support/depot-stock-balancer) — https://ziontechgroup.com/depot-stock-balancer/
-- [licitacao-radar](https://github.com/Zion-support/licitacao-radar) — https://ziontechgroup.com/licitacao-radar/
-- [ops-runbook-ai](https://github.com/Zion-support/ops-runbook-ai) — https://ziontechgroup.com/ops-runbook-ai/
-- [energy-sla-reporter](https://github.com/Zion-support/energy-sla-reporter) — https://ziontechgroup.com/energy-sla-reporter/
-- [zion-ai-spare-parts-matcher](https://github.com/Zion-support/zion-ai-spare-parts-matcher) — https://ziontechgroup.com/zion-ai-spare-parts-matcher/
-- [zion-ai-field-dispatch-optimizer](https://github.com/Zion-support/zion-ai-field-dispatch-optimizer) — https://ziontechgroup.com/zion-ai-field-dispatch-optimizer/
-- [zion-ai-ticket-triage](https://github.com/Zion-support/zion-ai-ticket-triage) — https://ziontechgroup.com/zion-ai-ticket-triage/
-- [zion-ai-rma-tracker](https://github.com/Zion-support/zion-ai-rma-tracker) — https://ziontechgroup.com/zion-ai-rma-tracker/
-- [ai-supply-chain-optimizer](https://github.com/Zion-support/ai-supply-chain-optimizer) — https://ziontechgroup.com/ai-supply-chain-optimizer/
-- [api-health-probe](https://github.com/Zion-support/api-health-probe) — https://ziontechgroup.com/api-health-probe/
-- [cloud-architect-diagram-builder](https://github.com/Zion-support/cloud-architect-diagram-builder) — https://ziontechgroup.com/cloud-architect-diagram-builder/
-- [cloud-migration-calculator](https://github.com/Zion-support/cloud-migration-calculator) — https://ziontechgroup.com/cloud-migration-calculator/
-- [cybersecurity-risk-assessment](https://github.com/Zion-support/cybersecurity-risk-assessment) — https://ziontechgroup.com/cybersecurity-risk-assessment/
-- [data-pipeline-doctor](https://github.com/Zion-support/data-pipeline-doctor) — https://ziontechgroup.com/data-pipeline-doctor/
-- [dns-health-checker](https://github.com/Zion-support/dns-health-checker) — https://ziontechgroup.com/dns-health-checker/
-- [incident-timeline-reconstructor](https://github.com/Zion-support/incident-timeline-reconstructor) — https://ziontechgroup.com/incident-timeline-reconstructor/
-- [it-staffing-calculator](https://github.com/Zion-support/it-staffing-calculator) — https://ziontechgroup.com/it-staffing-calculator/
-
----
-© 2026 Zion Tech Group · https://ziontechgroup.com/
+## Related apps
+- [zion-ai-finops-radar](https://github.com/Zion-support/zion-ai-finops-radar) — streaming billing anomaly detection
+- [finops-spend-analyzer](https://github.com/Zion-support/finops-spend-analyzer) — spend analysis
+- [cloud-cost-estimator](https://github.com/Zion-support/cloud-cost-estimator) — multi-cloud price comparison
+- [llm-cost-optimizer](https://github.com/Zion-support/llm-cost-optimizer) — token spend estimator
